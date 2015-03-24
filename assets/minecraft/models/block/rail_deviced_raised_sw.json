@@ -1,0 +1,199 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#particle",
+        "rail_rail": "#rail_rail",
+        "rail_wood": "blocks/rail_wood",
+        "rail_device": "#rail_device"
+    },
+    "elements": [
+        {
+            "from": [5,0.5,5],
+            "to": [11,1,11],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "texture": "#rail_device"
+                },
+                "down": {
+                    "texture": "#rail_device"
+                },
+                "west": {
+                    "texture": "#rail_device"
+                },
+                "east": {
+                    "texture": "#rail_device"
+                },
+                "north": {
+                    "texture": "#rail_device"
+                },
+                "south": {
+                    "texture": "#rail_device"
+                }
+            }
+        },
+        {
+            "from": [1,0,1],
+            "to": [15,0.5,3],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "texture": "#rail_wood"
+                },
+                "down": {
+                    "texture": "#rail_wood"
+                },
+                "west": {
+                    "texture": "#rail_wood"
+                },
+                "east": {
+                    "texture": "#rail_wood"
+                },
+                "north": {
+                    "texture": "#rail_wood"
+                },
+                "south": {
+                    "texture": "#rail_wood"
+                }
+            }
+        },
+        {
+            "from": [1,0,5],
+            "to": [15,0.5,7],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "texture": "#rail_wood"
+                },
+                "down": {
+                    "texture": "#rail_wood"
+                },
+                "west": {
+                    "texture": "#rail_wood"
+                },
+                "east": {
+                    "texture": "#rail_wood"
+                },
+                "north": {
+                    "texture": "#rail_wood"
+                },
+                "south": {
+                    "texture": "#rail_wood"
+                }
+            }
+        },
+        {
+            "from": [1,0,9],
+            "to": [15,0.5,11],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "texture": "#rail_wood"
+                },
+                "down": {
+                    "texture": "#rail_wood"
+                },
+                "west": {
+                    "texture": "#rail_wood"
+                },
+                "east": {
+                    "texture": "#rail_wood"
+                },
+                "north": {
+                    "texture": "#rail_wood"
+                },
+                "south": {
+                    "texture": "#rail_wood"
+                }
+            }
+        },
+        {
+            "from": [1,0,13],
+            "to": [15,0.5,15],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "texture": "#rail_wood"
+                },
+                "down": {
+                    "texture": "#rail_wood"
+                },
+                "west": {
+                    "texture": "#rail_wood"
+                },
+                "east": {
+                    "texture": "#rail_wood"
+                },
+                "north": {
+                    "texture": "#rail_wood"
+                },
+                "south": {
+                    "texture": "#rail_wood"
+                }
+            }
+        },
+        {
+            "from": [2,0.25,0],
+            "to": [4,1,16],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "uv": [0,0,16,16],
+                    "texture": "#rail_rail"
+                },
+                "down": {
+                    "uv": [0,0,16,16],
+                    "texture": "#rail_rail"
+                },
+                "west": {
+                    "uv": [0,0,3,16],
+                    "texture": "#rail_rail"
+                },
+                "east": {
+                    "uv": [12,0,16,16],
+                    "texture": "#rail_rail"
+                },
+                "north": {
+                    "uv": [16,0,0,0.5],
+                    "texture": "#rail_rail"
+                },
+                "south": {
+                    "uv": [0,14.125,16,14.75],
+                    "texture": "#rail_rail"
+                }
+            }
+        },
+        {
+            "from": [12,0.25,0],
+            "to": [14,1,16],
+            "rotation": { "origin": [ 16, 0, 0 ], "axis": "x", "angle": -45, "rescale": true },
+            "faces": {
+                "up": {
+                    "uv": [15.75,0,0,16],
+                    "texture": "#rail_rail"
+                },
+                "down": {
+                    "uv": [16,0,0,16],
+                    "texture": "#rail_rail"
+                },
+                "west": {
+                    "uv": [13,0,16,16],
+                    "texture": "#rail_rail"
+                },
+                "east": {
+                    "uv": [0,0,4,16],
+                    "texture": "#rail_rail"
+                },
+                "north": {
+                    "uv": [0,0,16,0.5],
+                    "texture": "#rail_rail"
+                },
+                "south": {
+                    "uv": [16,14.125,0,14.75],
+                    "texture": "#rail_rail"
+                }
+            }
+        }
+    ]
+}

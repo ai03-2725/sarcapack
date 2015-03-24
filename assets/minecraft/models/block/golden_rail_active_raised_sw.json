@@ -1,0 +1,9 @@
+{
+    "parent": "block/rail_deviced_raised_sw",
+    "textures": {
+        "particle": "blocks/rail_golden_powered",
+        "rail_rail": "blocks/rail_rail_gold_active",
+        "rail_wood": "blocks/rail_wood",
+        "rail_device": "blocks/rail_gold_device"
+    }
+}

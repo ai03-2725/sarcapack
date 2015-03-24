@@ -1,0 +1,9 @@
+{
+    "parent": "block/rail_deviced",
+    "textures": {
+        "particle": "blocks/rail_activator",
+        "rail_rail": "blocks/rail_rail_activator",
+        "rail_wood": "blocks/rail_wood",
+        "rail_device": "blocks/rail_activator_device_powered"
+    }
+}

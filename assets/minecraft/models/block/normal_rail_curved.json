@@ -1,0 +1,7 @@
+{
+    "parent": "block/rail_curved",
+    "textures": {
+        "rail": "blocks/rail_rail",
+        "particle": "blocks/rail_normal"
+    }
+}
