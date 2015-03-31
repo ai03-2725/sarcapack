@@ -49,18 +49,8 @@
 §f			"3d Sound System" by Paul Lamb
 §f			JOrbis by JCraft
 
-
-
-
-
-
-
-
-
-
-
-§3Sarcacraft Resource Pack:
-§b			Sarcasticphoenix
+§7SarcaPack Resource Pack:
+§f			Sarcasticphoenix
 
 
 
