@@ -2,9 +2,9 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-        "top": "blocks/trapdoor_top",
-        "particle": "blocks/trapdoor",
-        "main": "blocks/trapdoor"
+        "top": "#texture_top",
+        "particle": "#texture",
+        "main": "#texture"
     },
     "elements": [
         {
