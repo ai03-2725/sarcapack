@@ -1,7 +1,6 @@
 {
     "parent": "block/trapdoor_open",
     "textures": {
-        "texture": "blocks/trapdoor",
-        "texture_top": "blocks/trapdoor_top"
+        "texture": "blocks/trapdoor"
     }
 }
